@@ -1,4 +1,4 @@
-<h2> Hi, I'm Syed Ali! </h2>
+<h2> Hi, I'm Syed</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
