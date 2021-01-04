@@ -3,8 +3,8 @@
 <p><em>Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: syed_ali_offcl](https://img.shields.io/twitter/follow/SyedAli?style=social)](https://twitter.com/syed_ali_offcl)
-[![Linkedin: syed-ali-s-3594b6167](https://img.shields.io/badge/-syedali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-ali-s-3594b6167/)](https://www.linkedin.com/in/syed-ali-s-3594b6167/)
+[![Twitter: syed](https://img.shields.io/twitter/follow/SyedAli?style=social)](https://twitter.com/Syed20146399)
+[![Linkedin: syed](https://img.shields.io/badge/-syedali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-siddhiq-616248203//)](https://www.linkedin.com/in/syed-siddhiq-616248203/)
 [![GitHub syedsiddhiqq](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/syedsiddhiqq)
 
 
