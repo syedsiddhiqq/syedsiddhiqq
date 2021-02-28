@@ -13,10 +13,10 @@
 ```javascript
 const syed = {
   pronouns: "He" | "him",
-  code: [Java, Python , Javascript, Typescript, HTML, CSS],
-  tools: [Spring, RabbitMQ, MySQL, React, Redux, Node, Django],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #30DaysOfCode challenge focused on react"
+  code: [Java, Python , Javascript, HTML, CSS],
+  framework: [SpringBoot, RabbitMQ, JPA, MySQL, ReactJS, Django],
+  tools: [IntelliJ IDEA, Postman, VSC],
+  architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
 
